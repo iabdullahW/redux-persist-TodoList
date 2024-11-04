@@ -1,0 +1,29 @@
+/* src/App.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  display: flex;
+  gap: 10px;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #444;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #556;
+  color: #FFF;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #667;
+}
